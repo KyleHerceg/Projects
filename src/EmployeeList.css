@@ -1,0 +1,42 @@
+.list-element{
+	padding: 10px;
+	font-size: 2vh;
+	border: 2px solid #FFF;
+	width: 30 vw;
+	text-align: center;
+	background-color: rgba(255,255,255,.5);
+	border-radius: 5px;
+	margin: 10px;
+	list-style: none;
+}
+
+.list-holder{
+	padding: 0px;
+	padding-top: 10px;
+}
+
+/* Normal white Button as seen on Google.com*/
+.employee_button {
+    color: #444444;
+    background: #F3F3F3;
+    border: 1px #DADADA solid;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 2vh;
+    outline: none;
+    margin-top: 7px;
+}
+
+.employee_button:hover {
+    border: 1px #3396FF	 solid;
+    color: #333333;
+}
+
+.employee_button:active {
+    box-shadow: inset 1px 1px 1px #DFDFDF;   
+}
+
+.employee_desc{
+	color: black;
+    font-size: 1vh;
+}
